@@ -1,4 +1,3 @@
-# code-core-from-scrath-readme
 # Week 1
 ## Wednesday, November 23
 # Pizza Algoritm
