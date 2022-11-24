@@ -21,7 +21,7 @@
 5.	After the corresponding time, sprinkle some flour on a table to prepare the homemade pizza, take one of the balls and place it on it. Now you will have to extend it with your hands stretching it from the center to the sides, giving it a circular shape. If you have a rolling pin you can also use it to make the dough thinner. Once stretched, you can add the homemade pizza sauce and the pizza toppings of your choice.
 6.	After the time has elapsed, put the homemade pizza in the oven and bake it for approximately 10 minutes. You should keep an eye on it because the final time will vary depending on the type of oven and its intensity.
 7.	End
-# =========================Hot N Cold Algorithm =========================
+# Hot N Cold Algorithm
 1.	Begin
 2.	Request Temperature and call it Temperature
 3.	if the temperature is in degrees  celcius
@@ -31,8 +31,8 @@
 7.	the formula (0 °C × 9/5) + 32 = °F
 8.	Print the Temperature
 9.	End
-# =========================Geometry Algorithm=========================
-1.	Begin 
+# Geometry Algorithm
+- 1.	Begin 
 2.	Create a variable called option
 3.	Please Choose a Option:
 a.	volume of a Pyramid
