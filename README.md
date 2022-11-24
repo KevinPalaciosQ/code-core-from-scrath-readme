@@ -13,7 +13,7 @@
 - [x] 150 grams of mozzarella cheese
 - [x] 150 grams of sliced ham
 - [x] 1 jar of sauce
-- [x]****30 grams of fresh yeast
+- [x] 30 grams of fresh yeast
 1.	Begin
 2.	Buy ingredients
 3.	Mix the warm water with the fresh yeast in a bowl.
