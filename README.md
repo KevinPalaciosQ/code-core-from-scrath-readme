@@ -1,6 +1,6 @@
 # code-core-from-scrath-readme
 # Week 1
-Wednesday, November 23
+## Wednesday, November 23
 =========================Pizza Algoritm=========================
 Ingredients:
 1 kg of strong flour
