@@ -3,8 +3,8 @@
 ## Wednesday, November 23
 # Pizza Algoritm
 ## Ingredients:
-1 kg of strong flour
-1 teaspoon fine salt 
+- [x] 1 kg of strong flour
+- [x] 1 teaspoon fine salt 
 2½ cups of warm water 
 2 tablespoons of olive oil 
 1 can of sliced heart of palm
@@ -32,7 +32,7 @@
 8.	Print the Temperature
 9.	End
 # Geometry Algorithm
-- 1.	Begin 
+1.	Begin 
 2.	Create a variable called option
 3.	Please Choose a Option:
 a.	volume of a Pyramid
