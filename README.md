@@ -5,15 +5,15 @@
 ## Ingredients:
 - [x] 1 kg of strong flour
 - [x] 1 teaspoon fine salt 
-2½ cups of warm water 
-2 tablespoons of olive oil 
-1 can of sliced heart of palm
-1 can sliced pineapple
-150 cubic centimeters of Tomato Sauce
-150 grams of mozzarella cheese
-150 grams of sliced ham
-1 jar of sauce
-30 grams of fresh yeast
+- [x] 2½ cups of warm water 
+- [x] 2 tablespoons of olive oil 
+- [x] 1 can of sliced heart of palm
+- [x] 1 can sliced pineapple
+- [x] 150 cubic centimeters of Tomato Sauce
+- [x] 150 grams of mozzarella cheese
+- [x] 150 grams of sliced ham
+- [x] 1 jar of sauce
+- [x]****30 grams of fresh yeast
 1.	Begin
 2.	Buy ingredients
 3.	Mix the warm water with the fresh yeast in a bowl.
