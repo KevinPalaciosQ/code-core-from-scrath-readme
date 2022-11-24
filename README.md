@@ -1,8 +1,8 @@
 # code-core-from-scrath-readme
 # Week 1
 ## Wednesday, November 23
-# =========================Pizza Algoritm=========================
-Ingredients:
+# Pizza Algoritm
+## Ingredients:
 1 kg of strong flour
 1 teaspoon fine salt 
 2½ cups of warm water 
