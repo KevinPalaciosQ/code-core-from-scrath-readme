@@ -68,6 +68,7 @@ a.	print “odd number”
 a.	print “even number”
 6.	End
 ```
+[numero.pdf](https://github.com/KevinPalaciosQ/code-core-from-scrath-readme/files/10087948/numero.pdf)
 # How old are you
 ```
 1.	Ask the Date of birth call it “birthday”
