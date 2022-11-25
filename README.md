@@ -68,9 +68,10 @@ a.	print “odd number”
 a.	print “even number”
 6.	End
 ```
-[numero.pdf](https://github.com/KevinPalaciosQ/code-core-from-scrath-readme/files/10087948/numero.pdf)
 # How old are you
 ```
+![diagram](https://user-images.githubusercontent.com/95326781/203882476-79593c2e-ec27-47fc-9641-8d3f0bb8ec77.jpg)
+
 1.	Ask the Date of birth call it “birthday”
 2.	calculate what year and date we are in and call it "current".
 3.	Result= current date – birthday
