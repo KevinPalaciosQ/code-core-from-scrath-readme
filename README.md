@@ -13,6 +13,7 @@
 - [x] 150 grams of sliced ham
 - [x] 1 jar of sauce
 - [x] 30 grams of fresh yeast
+```
 1.	Begin
 2.	Buy ingredients
 3.	Mix the warm water with the fresh yeast in a bowl.
@@ -20,6 +21,7 @@
 5.	After the corresponding time, sprinkle some flour on a table to prepare the homemade pizza, take one of the balls and place it on it. Now you will have to extend it with your hands stretching it from the center to the sides, giving it a circular shape. If you have a rolling pin you can also use it to make the dough thinner. Once stretched, you can add the homemade pizza sauce and the pizza toppings of your choice.
 6.	After the time has elapsed, put the homemade pizza in the oven and bake it for approximately 10 minutes. You should keep an eye on it because the final time will vary depending on the type of oven and its intensity.
 7.	End
+```
 # Hot N Cold Algorithm
 1.	Begin
 2.	Request Temperature and call it Temperature
@@ -68,7 +70,7 @@ a.	print “even number”
 5.	End
 # Find the Treasure
 ### “AlL the messages are lies”
-### Solution
+### Solution:
 1. “A” Chest says: “the middle chest has treasure”lie
 2. “B” Chest says: “All these chest has treasure” there will be at least a chest or two with treasures
 3. “C” Chest says: “All these chest has treasure” a single chest will have treasure, then there will be two treasures.
