@@ -1,8 +1,9 @@
+# core-code-from-scratch-readme
 # Week 1
 ---
 ## Wednesday, November 23
 ---
-# Pizza 🍕
+**Pizza 🍕
 ## Ingredients:
 - [x] 1 kg of strong flour
 - [x] 1 teaspoon fine salt 
