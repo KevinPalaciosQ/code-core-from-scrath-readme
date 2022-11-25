@@ -62,7 +62,7 @@ c.	volume of a Sphere
 ---
 ## Thursday, November 24
 ---
-# Numbers 📊 **$4**
+# Numbers 📊 **#4**
 ```
 1.	Begin
 2.	Ask the number
