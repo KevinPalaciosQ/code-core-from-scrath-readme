@@ -22,7 +22,7 @@
 6.	After the time has elapsed, put the homemade pizza in the oven and bake it for approximately 10 minutes. You should keep an eye on it because the final time will vary depending on the type of oven and its intensity.
 7.	End
 ```
-# Hot N Cold Algorithm
+# Hot N Cold 🥶
 ```
 1.	Begin
 2.	Request Temperature and call it Temperature
@@ -34,7 +34,7 @@
 8.	Print the Temperature
 9.	End
 ```
-# Geometry Algorithm
+# Geometry 📐
 ```
 1.	Begin 
 2.	Create a variable called option
@@ -57,7 +57,7 @@ c.	volume of a Sphere
 16.	End
 ```
 ## Thursday, November 24
-# Numbers
+# Numbers 📊
 ```
 1.	Begin
 2.	Ask the number
@@ -69,7 +69,7 @@ a.	print “even number”
 6.	End
 ```
 ![diagram](https://user-images.githubusercontent.com/95326781/203882595-47695d0a-cfcf-408d-9c5d-54f43e8badd5.jpg)
-# How old are you
+# Date of birth 👧
 ```
 1.	Ask the Date of birth call it “birthday”
 2.	calculate what year and date we are in and call it "current".
@@ -77,7 +77,7 @@ a.	print “even number”
 4.	print “Result”
 5.	End
 ```
-# Find the Treasure
+# Treasures 👑
 ### “All the messages are lies”
 ### Solution:
 ```
