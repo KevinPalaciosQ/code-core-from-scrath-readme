@@ -1,5 +1,7 @@
 # Week 1
+---
 ## Wednesday, November 23
+---
 # Pizza 🍕
 ## Ingredients:
 - [x] 1 kg of strong flour
@@ -56,7 +58,9 @@ c.	volume of a Sphere
 15.	Print Volume of Sphere
 16.	End
 ```
+---
 ## Thursday, November 24
+---
 # Numbers 📊
 ```
 1.	Begin
