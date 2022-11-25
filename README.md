@@ -54,6 +54,7 @@ c.	volume of a Sphere
 16.	End
 ## Thursday, November 24
 # Numbers
+```
 1.	Begin
 2.	Ask the number
 3.	verify if the number divided by 2 has a remainder
@@ -62,15 +63,20 @@ a.	print “odd number”
 5.	doesnt have reminder
 a.	print “even number”
 6.	End
+```
 # How old are you
+```
 1.	Ask the Date of birth call it “birthday”
 2.	calculate what year and date we are in and call it "current".
 3.	Result= current date – birthday
 4.	print “Result”
 5.	End
+```
 # Find the Treasure
-### “AlL the messages are lies”
+### “All the messages are lies”
 ### Solution:
+```
 1. “A” Chest says: “the middle chest has treasure”lie
 2. “B” Chest says: “All these chest has treasure” there will be at least a chest or two with treasures
 3. “C” Chest says: “All these chest has treasure” a single chest will have treasure, then there will be two treasures.
+```
