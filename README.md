@@ -25,7 +25,7 @@
 6.	After the time has elapsed, put the homemade pizza in the oven and bake it for approximately 10 minutes. You should keep an eye on it because the final time will vary depending on the type of oven and its intensity.
 7.	End
 ```
-# Hot N Cold 🥶
+# Hot N Cold 🥶 **#2**
 ```
 1.	Begin
 2.	Request Temperature and call it Temperature
@@ -37,7 +37,7 @@
 8.	Print the Temperature
 9.	End
 ```
-# Geometry 📐
+# Geometry 📐 **#3**
 ```
 1.	Begin 
 2.	Create a variable called option
@@ -62,7 +62,7 @@ c.	volume of a Sphere
 ---
 ## Thursday, November 24
 ---
-# Numbers 📊
+# Numbers 📊 **$4**
 ```
 1.	Begin
 2.	Ask the number
@@ -74,15 +74,15 @@ a.	print “even number”
 6.	End
 ```
 ![diagram](https://user-images.githubusercontent.com/95326781/203882595-47695d0a-cfcf-408d-9c5d-54f43e8badd5.jpg)
-# Date of birth 👧
-```
+# Date of birth 👧 **#5**
+``` 
 1.	Ask the Date of birth call it “birthday”
 2.	calculate what year and date we are in and call it "current".
 3.	Result= current date – birthday
 4.	print “Result”
 5.	End
 ```
-# Treasures 👑
+# Treasures 👑 **#6**
 ### “All the messages are lies”
 ### Solution:
 ```
