@@ -23,6 +23,7 @@
 7.	End
 ```
 # Hot N Cold Algorithm
+```
 1.	Begin
 2.	Request Temperature and call it Temperature
 3.	if the temperature is in degrees  celcius
@@ -32,7 +33,9 @@
 7.	the formula (0 °C × 9/5) + 32 = °F
 8.	Print the Temperature
 9.	End
+```
 # Geometry Algorithm
+```
 1.	Begin 
 2.	Create a variable called option
 3.	Please Choose a Option:
@@ -52,6 +55,7 @@ c.	volume of a Sphere
 14.	Get the value of r and use in the formula
 15.	Print Volume of Sphere
 16.	End
+```
 ## Thursday, November 24
 # Numbers
 ```
