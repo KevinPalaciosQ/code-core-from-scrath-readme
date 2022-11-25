@@ -3,7 +3,7 @@
 ---
 ## Wednesday, November 23
 ---
-**Pizza 🍕
+**Pizza 🍕 #1**
 ## Ingredients:
 - [x] 1 kg of strong flour
 - [x] 1 teaspoon fine salt 
