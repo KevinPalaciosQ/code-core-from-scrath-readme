@@ -80,7 +80,7 @@ a.	print “even number”
 ### “All the messages are lies”
 ### Solution:
 ```
-1. “A” Chest says: “the middle chest has treasure”lie
-2. “B” Chest says: “All these chest has treasure” there will be at least a chest or two with treasures
-3. “C” Chest says: “All these chest has treasure” a single chest will have treasure, then there will be two treasures.
+1. “A” Chest says: “the middle chest has treasure” --> lie
+2. “B” Chest says: “All these chest has treasure” --> there will be at least a chest or two with treasures
+3. “C” Chest says: “All these chest has treasure” --> a single chest will have treasure, then there will be two treasures.
 ```
