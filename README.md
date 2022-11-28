@@ -92,3 +92,7 @@ a.	print “even number”
 ```
 ### Answer:
 ## The A and C have treasures
+# Week 2
+---
+## Wednesday, November 23
+---
