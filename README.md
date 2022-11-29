@@ -139,6 +139,11 @@ Create an algorithm to prepare a bowl of cereal with milk. Represent the result 
 ```
 # Pseudocode: 
 ```
-
+If Bowl equals void then:
+  add cereal
+  add milk in the bowl
+ Else
+  get bowl, cereal and milk
+  put cereal in the bowl and milk, and add some fruit
 ```
 # Flow Diagram
