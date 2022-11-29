@@ -147,5 +147,5 @@ If Bowl equals void then:
   put cereal in the bowl and milk, and add some fruit
 End
 ```
-# Flow Diagram
+# Flow Diagram:
 ![Cereall](https://user-images.githubusercontent.com/95326781/204409065-4c3bb78a-8dfa-4209-8ade-76681a3fb382.jpg)
