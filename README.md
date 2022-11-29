@@ -125,7 +125,7 @@ Bob is telling the Truth
 # Which comes first, cereal or milk?
 ```
 Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
-``
+```
 # Algoritm: 
 ```
 1. Get a bowl 
