@@ -114,12 +114,31 @@ Expected output
 
 Identify which student is telling the truth
 ```
-# Solution: 😎
+# Solution: 
 ```
 Only those who studied would be telling the truth and those who did not would be lying. 
 1. In the first case, if Alice is lying, what the professor says would be a lie.
 2. Bob says that at least someone studied
 3. If Charlie says that 2 study the previous preposition would be a lie.
-# Bob is telling the Truth
+Bob is telling the Truth
 ```
 # Which comes first, cereal or milk?
+```
+Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
+``
+# Algoritm: 
+```
+1. Get a bowl 
+2. Put the cereal
+3. If you want to add fruits or something else:
+  a. Ask for fruit
+  b. Put the fruit
+  c. Add Suggar or granola
+ 4. Pour the milk into the bowl
+ 5. Enjoy
+```
+# Pseudocode: 
+```
+
+```
+# Flow Diagram
