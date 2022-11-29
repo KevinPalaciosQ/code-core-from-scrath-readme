@@ -114,4 +114,11 @@ Expected output
 
 Identify which student is telling the truth
 ```
-# Solution 😎
+# Solution: 😎
+```
+Only those who studied would be telling the truth and those who did not would be lying. 
+1. In the first case, if Alice is lying, what the professor says would be a lie.
+2. Bob says that at least someone studied
+3. If Charlie says that 2 study the previous preposition would be a lie.
+Bob is telling the Truth
+```
