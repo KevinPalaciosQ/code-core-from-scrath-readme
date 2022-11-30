@@ -88,3 +88,12 @@ P.S. If you like, you can try to do all 27 levels, but following level 15 we wil
 Level 1
 ```
 ![1](https://user-images.githubusercontent.com/95326781/204929777-d9e50fc1-da5a-408e-b352-8bd56ae55455.jpg)
+```
+Level 2
+```
+![2](https://user-images.githubusercontent.com/95326781/204930020-82dc0fe4-d828-4ddc-9511-b07c58f6ca2e.jpg)
+```
+Level 3
+```
+![3](https://user-images.githubusercontent.com/95326781/204930122-54c85c4b-d370-4762-9eda-d15e2faf0930.jpg)
+
