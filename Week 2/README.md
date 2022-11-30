@@ -77,7 +77,7 @@ FinAlgoritmo
 ```
 ## Wednesday, 30 💻
 ---
-1. Algorithm game
+# Algorithm game
 ## Description
 ```
 This will be a fun challenge, you will be playing a game base on simple commands, and the idea is for you to help the squirrel to take the pine cone. For this challenge try to pass the first 15 levels. We wish you all the luck and happy gaming.
@@ -104,3 +104,10 @@ Level 4
 Level 5
 ```
 ![5](https://user-images.githubusercontent.com/95326781/204930566-164a6c70-6a5c-4924-b407-b64de6b1215e.jpg)
+```
+Level 6
+```
+![6](https://user-images.githubusercontent.com/95326781/204930858-6c08ed22-8e24-4cd0-9437-3b32107d92e8.jpg)
+```
+Level 7
+```
