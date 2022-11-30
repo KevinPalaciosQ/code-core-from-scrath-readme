@@ -56,7 +56,7 @@ End
 # Flow Diagram:
 ![Cereall](https://user-images.githubusercontent.com/95326781/204409065-4c3bb78a-8dfa-4209-8ade-76681a3fb382.jpg)
 ---
-## Monday, Tuesday 29 💻
+## Tuesday, 29 💻
 ---
 ## Print my name
 ---
@@ -75,3 +75,16 @@ Algoritmo MyNameAndMyAge
 FinAlgoritmo
 
 ```
+## Wednesday, 30 💻
+---
+1. Algorithm game
+## Description
+```
+This will be a fun challenge, you will be playing a game base on simple commands, and the idea is for you to help the squirrel to take the pine cone. For this challenge try to pass the first 15 levels. We wish you all the luck and happy gaming.
+P.S. If you like, you can try to do all 27 levels, but following level 15 we will need more programming concepts, maybe you can go back to this challenge later 😉
+```
+## Solution
+```
+Level 1
+```
+![1](https://user-images.githubusercontent.com/95326781/204929777-d9e50fc1-da5a-408e-b352-8bd56ae55455.jpg)
