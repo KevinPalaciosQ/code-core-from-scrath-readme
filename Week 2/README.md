@@ -64,10 +64,6 @@ End
 Algoritmo MyName
 	Imprimir "Hola mi nombre es: Kevin Palacios"
 FinAlgoritmo
-Algoritmo MyNameAndMyAge
-	Imprimir "Hola mi nombre es: Kevin Palacios"
-	Imprimir "Hola mi edad es: 27 años"
-FinAlgoritmo
 ```
 ---
 ## Print my name & age
