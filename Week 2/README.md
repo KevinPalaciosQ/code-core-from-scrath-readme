@@ -160,6 +160,14 @@ Algoritmo Mod
 FinAlgoritmo
 ```
 ---
+## Odd
+---
+![impar](https://user-images.githubusercontent.com/95326781/204935321-2ba89840-a475-45ee-bdc1-5e747dd211a5.jpg)
+---
+## Even
+---
+![Even](https://user-images.githubusercontent.com/95326781/204935404-e4a1ce80-5198-4ab7-afe1-02c59e288cb7.jpg)
+---
 # Register form
 ## Description
 ```
