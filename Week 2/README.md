@@ -207,11 +207,11 @@ FinAlgoritmo
 
 ```
 ```
-## Input
+Input
 ```
 ![Input](https://user-images.githubusercontent.com/95326781/204934905-62333fe0-23fd-4ebc-bdde-c6d6afe53046.jpg)
 ```
-## Output
+Output
 ```
 ![Out](https://user-images.githubusercontent.com/95326781/204935023-13702587-def4-48e4-acf3-669ef40b0c67.jpg)
 
