@@ -139,4 +139,61 @@ Level 13
 ```
 Level 14
 ```
+![14](https://user-images.githubusercontent.com/95326781/204932762-9631eb84-988e-4df5-9418-47af4be05b33.jpg)
+```
+Level 15
+```
+![15](https://user-images.githubusercontent.com/95326781/204932943-ba6ce57b-bc64-4432-be8f-b79a9b76463a.jpg)
+# Mod
+## Description
+```
+The following description is taken from this source, feel free to read it, this is just a sub-set of the whole post
 
+In computing, the modulo operation returns the remainder or signed remainder of a division, after one number is divided by another (called the modulus of the operation). In this challenge, you are going to learn and practice this arithmetic operator
+```
+## Solution
+```
+Algoritmo Mod
+	Imprimir "Por favor ingrese un número"
+	Leer Variable
+	Imprimir Variable % 2
+FinAlgoritmo
+```
+---
+# Register form
+## Description
+```
+You are given the task to create a registration form for new users, this form should ask the user for the following information:
+
+    First name
+    Last name
+    Age
+    Email
+    Address
+
+At the end of the program, you should print all the information added from the user in a friendly way
+```
+## Solution
+```
+Algoritmo RegisterForm
+	Imprimir "*Register Form*"
+	Imprimir  "Please enter your Name"
+	Leer Fn
+	Imprimir  "Please enter your Last Name"
+	Leer Lastname
+	Imprimir "Please enter your Age"
+	Leer Age
+	Imprimir "Please enter your Email"
+	Leer Email
+	Imprimir "Please enter your Adress"
+	Leer Adress
+	Imprimir "*User Data*"
+	Imprimir  "Hello! "+Fn 
+	Imprimir "First Name: "+ Fn
+	Imprimir "Last Name: "+ Lastname
+	Imprimir "Age: "+ Age
+	Imprimir "Email" +Email
+	Imprimir "Adress"+Adress
+FinAlgoritmo
+
+```
