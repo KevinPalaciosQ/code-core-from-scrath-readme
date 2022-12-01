@@ -160,12 +160,13 @@ Algoritmo Mod
 FinAlgoritmo
 ```
 ---
+```
 ## Odd
----
+```
 ![impar](https://user-images.githubusercontent.com/95326781/204935321-2ba89840-a475-45ee-bdc1-5e747dd211a5.jpg)
----
+```
 ## Even
----
+```
 ![Even](https://user-images.githubusercontent.com/95326781/204935404-e4a1ce80-5198-4ab7-afe1-02c59e288cb7.jpg)
 ---
 # Register form
@@ -205,12 +206,12 @@ Algoritmo RegisterForm
 FinAlgoritmo
 
 ```
----
+```
 ## Input
----
+```
 ![Input](https://user-images.githubusercontent.com/95326781/204934905-62333fe0-23fd-4ebc-bdde-c6d6afe53046.jpg)
----
+```
 ## Output
----
+```
 ![Out](https://user-images.githubusercontent.com/95326781/204935023-13702587-def4-48e4-acf3-669ef40b0c67.jpg)
 
