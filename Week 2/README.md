@@ -343,6 +343,6 @@ Par
 Impar
 ```
 ![Impar_](https://user-images.githubusercontent.com/95326781/205195704-06d4df6d-754f-4a8c-829b-29a0d843ec14.jpg)
-```python
-ALGORITMO...
+## ```python
+Identify odd and even numbers...
 ```
