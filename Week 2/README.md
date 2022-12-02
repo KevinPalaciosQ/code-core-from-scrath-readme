@@ -333,7 +333,7 @@ FinAlgoritmo
 ---
 ## Graphic Solution:
 ---
-![Identificador](https://user-images.githubusercontent.com/95326781/205187247-71f3f086-b0d7-458b-b536-642bc75a6685.jpg)
+![Graphic](https://user-images.githubusercontent.com/95326781/205195864-33770b11-9e0c-4d8b-9ab8-69f4ca8e9b48.jpg)
 ---
 ```
 Par
