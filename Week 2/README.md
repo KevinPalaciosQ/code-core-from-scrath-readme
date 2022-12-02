@@ -226,6 +226,7 @@ this is easier to check using the Truth Tables for each of the operations, now y
 and add the Truth Tables for each of the operations add them to your README and check if the following operations are correct
 by answering ✅ or ❌ at the end of each operation.
 ```
+---
 ## Operations:
 ```
     Remember that AND can be represented by &
@@ -250,9 +251,64 @@ by answering ✅ or ❌ at the end of each operation.
 14. ~((T | F ) & (F | F)) & T = F
 ---
 ## Solution
+1. T & T = T ✅
+2. T & F = F ✅
+3. F & T = T ❌
+4. F & F = F ✅
+5. T | T = T ✅
+6. T | F = F ❌
+7. F | T = T ✅
+8. F | F = F ✅
+9. ~T = T ❌
+10. ~F = T ✅
+11. (T & F) | (~F) = T ✅
+12. (T | F ) & (F | F) = T ❌
+13. ~((T | F ) & (F | F)) & F = F ✅
+14. ~((T | F ) & (F | F)) & T = T ✅
+---
 # Boolean results
+## Description
 ```
+You have been assigned to verify and explain a code created by one of your colleagues,
+the idea is that you can describe the value that each variable has within the code as well as what was done for each line.
+What is expected of you is that you add comments below each line showing the value that the variable would have and a short 
+explanation of how that value is reached.
+```
+## Explain this code:
+```
+Algoritmo boolean
+	a <- 5 == 3
+	b <- 4 <> 3
+	c <- 7 > 7
+	d <- 4 < 4
+	e <- 100 <= 90
+	f <- 40 >= 40
+FinAlgoritmo
+```
+## Explaining the Code
+```
+Algoritmo boolean
+	a <- 5 == 3
+	//a = FALSE
+	//Description: se compara que 5 es igual a 3 y esto es Falso
+	b <- 4 <> 3
+	//b = TRUE
+	//Description: se compara que 4 es diferente a 3 y esto es Verdadero
+	c <- 7 > 7
+	//c = FALSE
+	//Description: se compara que 7 es mayor a 7 y esto es Falso
+	d <- 4 < 4
+	//d = FALSE
+	//Description: se compara que 4 es menor a 4 y esto es Falso
+	e <- 100 <= 90
+	//e = FALSE
+	//Description: se compara que 100 es menor o igual a 100 y esto es Falso
+	f <- 40 >= 40
+	//F = TRUE
+	//Description: se compara que 40 es mayor o igual a 40 y esto es Verdadero
+FinAlgoritmo
 ```
 # Identify odd and even numbers
+## Description
 ```
 ```
