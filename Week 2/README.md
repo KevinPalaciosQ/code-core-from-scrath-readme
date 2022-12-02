@@ -320,5 +320,27 @@ Remember the last challenge about the Mod operator? well, today your task will b
 ```
 ## Solution:
 ```
+Algoritmo OddOrEvenIdentificator
+	Imprimir "Por favor ingrese el número a válidar"
+	Leer Numero
+	Si ((Numero %2)==0)
+		Imprimir "El número es par"
+	SiNo
+		Imprimir "El número es impar"
+	FinSi
+FinAlgoritmo
 
 ```
+---
+## Graphic Solution:
+---
+![Identificador](https://user-images.githubusercontent.com/95326781/205187247-71f3f086-b0d7-458b-b536-642bc75a6685.jpg)
+---
+```
+Par
+```
+![Par](https://user-images.githubusercontent.com/95326781/205187508-72770dca-8188-4a02-8035-4f20d27c47f4.jpg)
+```
+Impar
+```
+![Imparr](https://user-images.githubusercontent.com/95326781/205187530-5c63e0cb-994d-4741-a87a-b92a84db1e56.jpg)
