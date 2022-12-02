@@ -324,12 +324,11 @@ Algoritmo OddOrEvenIdentificator
 	Imprimir "Por favor ingrese el número a válidar"
 	Leer Numero
 	Si ((Numero %2)==0)
-		Imprimir "El número es par"
+		Imprimir "El número: ", Numero," es Par"
 	SiNo
-		Imprimir "El número es impar"
+		Imprimir "El número: ", Numero," es Impar"
 	FinSi
 FinAlgoritmo
-
 ```
 ---
 ## Graphic Solution:
@@ -339,8 +338,8 @@ FinAlgoritmo
 ```
 Par
 ```
-![Par](https://user-images.githubusercontent.com/95326781/205187508-72770dca-8188-4a02-8035-4f20d27c47f4.jpg)
+![Par_](https://user-images.githubusercontent.com/95326781/205195676-d55a3867-34f2-4f97-8ec9-bfc37a8b7053.jpg)
 ```
 Impar
 ```
-![Imparr](https://user-images.githubusercontent.com/95326781/205187530-5c63e0cb-994d-4741-a87a-b92a84db1e56.jpg)
+![Impar_](https://user-images.githubusercontent.com/95326781/205195704-06d4df6d-754f-4a8c-829b-29a0d843ec14.jpg)
