@@ -2,5 +2,6 @@
 ---
 ## Monday, December 5💻
 ---
-# Logic problem
+# Simple Calculator
 ```
+
