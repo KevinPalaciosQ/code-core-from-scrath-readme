@@ -108,3 +108,25 @@ The result of the algorithm is the following:
 ![almost](https://user-images.githubusercontent.com/95326781/205775070-21b771b5-9806-4213-96b8-0ed41c8207a6.jpg)
 ### Regular Number
 ![RegularN](https://user-images.githubusercontent.com/95326781/205775105-bd526013-00ad-4aa7-bce1-1a10506c7e01.jpg)
+---
+## Tuesday, December 6💻
+---
+# Multiplication Tables
+## Description
+For this challenge you will create a program to calculate the multiplication tables for a given number using While (Mientras). The user must enter a number and then the multiplication table for the number must be printed.
+### Solution
+```
+Algoritmo Multiplication_Tables
+	Definir numero Como Entero
+	Escribir "Ingresa el número para generar tu tabla de multiplicar"
+	leer numero
+	Imprimir "Tabla de multiplicar del número: ",numero
+	para tabla = 1 Hasta 12 Con Paso 1 Hacer
+		Escribir numero," x ",tabla," = ",numero*tabla
+	FinPara
+FinAlgoritmo
+```
+### Input a number into the program
+![Input](https://user-images.githubusercontent.com/95326781/206041665-97291ac0-c6a1-4a60-ad36-644dbe15d763.jpg)
+### Expected Output
+![Output](https://user-images.githubusercontent.com/95326781/206041707-bac48898-b1c4-4009-b852-496cdb4e1aaf.jpg)
