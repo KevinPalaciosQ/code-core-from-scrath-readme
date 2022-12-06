@@ -51,6 +51,18 @@ Algoritmo SimpleCalculator
 	FinSi
 FinAlgoritmo
 ```
+How it works
+![Example](https://user-images.githubusercontent.com/95326781/205773963-717f518f-21fc-4d55-adb2-7cdead665d66.jpg)
+Operations that the program allows
+![Operations](https://user-images.githubusercontent.com/95326781/205774020-b78acb1a-a01f-40c0-9845-51829bbebcf7.jpg)
+Sum
+![suma](https://user-images.githubusercontent.com/95326781/205774187-7a8ef890-2c74-48a8-a996-0537c99bca96.jpg)
+Subtract
+![resta](https://user-images.githubusercontent.com/95326781/205774246-00e62270-f9b7-4c33-bcb7-bb9c7769d793.jpg)
+Multiplication
+![multiplicacion](https://user-images.githubusercontent.com/95326781/205774262-73d0a46d-a27f-4ea4-b643-4d257057382a.jpg)
+Division
+![Division](https://user-images.githubusercontent.com/95326781/205774307-1b2fec16-d960-4a83-b9a3-1901ca2d0740.jpg)
 ## Special number
 Description
 
