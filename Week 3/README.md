@@ -111,6 +111,26 @@ The result of the algorithm is the following:
 ---
 ## Tuesday, December 6💻
 ---
+# Simple calculator with Switch
+## Description
+For this challenge you will be performing a simple calculator using Switch (Segun), this calculator can perform the following operations:
+1. Sum (+)
+2. Subtract (-)
+3. Multiplication (*)
+4. Division (/)
+
+The calculator must ask the user for two numbers, after asking for the two numbers, you must ask for the operation to be performed,
+keep in mind that you must show the user the options available (+, -, *, /). The first thing that must be done is to validate that 
+the operation that the user entered is valid, if it is not a valid option, the user must be shown an error message, for example:
+⚠️ La operación no es valida and terminate the program. If the operation is valid, show the message: Procesando: <OPERACIÓN A REALIZAR> 
+For, example: if the user has entered the numbers 10 and 15 as well as the operation *, the message should read: Procesando: 10 * 15. 
+After this message the result of the operation must be displayed, following the previous example, the result of operating 10 * 15 is 150,
+so the program should return: Resultado: 150. Remember to use Switch (Segun) to identify which operations you should execute.
+```
+```
+---
+## Wednesday, December 7💻
+---
 # Multiplication Tables
 ## Description
 For this challenge you will create a program to calculate the multiplication tables for a given number using While (Mientras). The user must enter a number and then the multiplication table for the number must be printed.
@@ -130,3 +150,5 @@ FinAlgoritmo
 ![Input](https://user-images.githubusercontent.com/95326781/206041665-97291ac0-c6a1-4a60-ad36-644dbe15d763.jpg)
 ### Expected Output
 ![Output](https://user-images.githubusercontent.com/95326781/206041707-bac48898-b1c4-4009-b852-496cdb4e1aaf.jpg)
+---
+
