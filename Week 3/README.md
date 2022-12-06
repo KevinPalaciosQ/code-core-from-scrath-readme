@@ -103,7 +103,7 @@ FinAlgoritmo
 ```
 The result of the algorithm is the following:
 ### Especial Number
-![RegularN](https://user-images.githubusercontent.com/95326781/205775022-69c6d324-ae1f-47df-938b-db36be7abc45.jpg)
+![especialn](https://user-images.githubusercontent.com/95326781/205775316-dfabe087-65a1-43b3-b1ca-e5c40fc6088d.jpg)
 ### Almost Especial Number
 ![almost](https://user-images.githubusercontent.com/95326781/205775070-21b771b5-9806-4213-96b8-0ed41c8207a6.jpg)
 ### Regular Number
