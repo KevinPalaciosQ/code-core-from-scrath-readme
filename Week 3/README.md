@@ -101,3 +101,10 @@ Algoritmo SpecialNumber
 	FinSi
 FinAlgoritmo
 ```
+The result of the algorithm is the following:
+### Especial Number
+![RegularN](https://user-images.githubusercontent.com/95326781/205775022-69c6d324-ae1f-47df-938b-db36be7abc45.jpg)
+### Almost Especial Number
+![almost](https://user-images.githubusercontent.com/95326781/205775070-21b771b5-9806-4213-96b8-0ed41c8207a6.jpg)
+### Regular Number
+![RegularN](https://user-images.githubusercontent.com/95326781/205775105-bd526013-00ad-4aa7-bce1-1a10506c7e01.jpg)
