@@ -126,8 +126,53 @@ the operation that the user entered is valid, if it is not a valid option, the u
 For, example: if the user has entered the numbers 10 and 15 as well as the operation *, the message should read: Procesando: 10 * 15. 
 After this message the result of the operation must be displayed, following the previous example, the result of operating 10 * 15 is 150,
 so the program should return: Resultado: 150. Remember to use Switch (Segun) to identify which operations you should execute.
+#Solution Algorithm
 ```
+Algoritmo SimpleCalculatorWithSwitch
+	Escribir  "********CALCULADORA**SIMPLE**CON**SWITCH********"
+	Escribir "Por favor ingrese el primer número:"
+	Leer Numero1
+	Escribir "Por favor ingrese el segundo número:"
+	Leer Numero2
+	Imprimir "Operaciones Permitidas:"
+	Imprimir "Suma = +"
+	Imprimir "Resta = -"
+	Imprimir "Multiplicación = *"
+	Imprimir "División = /"
+	Escribir "Por elija un signo para realizar una operación (+,-,*,/)"
+	Leer Operador
+	Si Operador =="+"| Operador == "-"| Operador =="*" | Operador =="/" Entonces
+		Imprimir  "La operación a Realizar será",Operador
+		Segun Operador Hacer
+			"+":
+				Operacion = Numero1+ Numero2
+				Imprimir "El resultado de la Suma es : ", Operacion
+			"-":
+				Operacion = Numero1- Numero2
+				Imprimir "El resultado de la Resta es : ", Operacion
+			"*":
+				Operacion = Numero1*Numero2
+				Imprimir "El resultado de la Multiplicación es : ", Operacion
+			"/":
+				Operacion = Numero1/Numero2
+				Imprimir "El resultado de la División es : ", Operacion
+		FinSegun
+	SiNo
+		Imprimir "Por favor elija una opción valida"
+	FinSi
+FinAlgoritmo
 ```
+## How the Calculator Works
+![Switch Calculator](https://user-images.githubusercontent.com/95326781/206046770-a4e9f466-a22a-42f5-82d4-5bf5ba8367a6.jpg)
+## Operations
+### Sum
+![Sum](https://user-images.githubusercontent.com/95326781/206047106-68f89aa2-eadb-41ab-b516-edb1441050d0.jpg)
+### Subtract
+![Restaa](https://user-images.githubusercontent.com/95326781/206047192-ddf187e6-2ae1-4e2f-94a7-659083fa65d4.jpg)
+### Multiplication
+![Multi](https://user-images.githubusercontent.com/95326781/206047369-c20fb987-e410-4aae-a344-e653481466e6.jpg)
+### Division
+![Div](https://user-images.githubusercontent.com/95326781/206047420-7cbc3b01-6970-46b9-b3ce-4af3c284e933.jpg)
 ---
 ## Wednesday, December 7💻
 ---
