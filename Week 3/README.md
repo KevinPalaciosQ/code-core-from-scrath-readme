@@ -173,6 +173,91 @@ FinAlgoritmo
 ![Multi](https://user-images.githubusercontent.com/95326781/206047369-c20fb987-e410-4aae-a344-e653481466e6.jpg)
 ### Division
 ![Div](https://user-images.githubusercontent.com/95326781/206047420-7cbc3b01-6970-46b9-b3ce-4af3c284e933.jpg)
+# Multi Option Program
+## Description
+For this challenge you will create a program with multiple options using Switch (Segun), the options available are the following:
+
+1. Sum two numbers
+2. Print the day of the week given the day number
+3. Print the length of a given text
+
+This program must have a start menu where the user must select one of the previously described options. When the user 
+selects each of the options, the program will perform the following:
+
+1. Sum. The user enters two numbers and the result of the sum of both is printed
+2. Print day of the week. The user enters a day of the week using numbers and the name of the day must be printed. For example, if the number 1 is entered, the program prints the text Lunes.
+ 3. Calculate text length. The user enters a text and the length of the text should be printed. I was able to use the Pseint Longitud function to get the length.
+
+When the user enters an incorrect option, a message should be printed saying that the option is not available.
+#Solution Algorithm
+```
+Algoritmo SimpleCalculatorWithSwitch
+	Escribir  "********Programa MultiOpcion********"
+	Imprimir "Opciones Disponibles:"
+	Imprimir "1. Sumar dos números"
+	Imprimir "2. Imprimir días de la semana"
+	Imprimir "3. Calcular longitud del texto"
+	Escribir "Elija una opción :"
+	Leer Opcionn
+	Si Opcionn =="1"| Opcionn == "2"|Opcionn =="3" Entonces
+		Si Opcionn =="1" Entonces
+			Imprimir "1. Sumar dos números"
+			Imprimir "Por favor ingrese el primer número"
+			Leer Numero1
+			Imprimir "Por favor ingrese el segundo número"
+			Leer Numero2
+			Operacion = Numero1+ Numero2
+			Escribir "Procesando operación, SUMA: ", Numero1, "+", Numero2
+			Escribir "El Resultado es: ",Operacion
+		FinSi
+		Si Opcionn =="2" Entonces
+			Imprimir "2. Imprimir días de la semana"
+			Imprimir "Ingrese el dia de la semana en números (1-7)"
+			Leer dia
+			Si dia =="1"| dia == "2"| dia =="3"| dia =="4"| dia =="5" | dia =="6"| dia =="7" Entonces
+				Si dia =="1" Entonces
+					Imprimir "Hoy es Lunes"
+				FinSi
+				Si dia =="2" Entonces
+					Imprimir "Hoy es Martes"
+				FinSi
+				Si dia =="3" Entonces
+					Imprimir "Hoy es Miercoles"
+				FinSi
+				Si dia =="4" Entonces
+					Imprimir "Hoy es Jueves"
+				FinSi
+				Si dia =="5" Entonces
+					Imprimir "Hoy es Viernes"
+				FinSi
+				Si dia =="6" Entonces
+					Imprimir "Hoy es Sabado"
+				FinSi
+				Si dia =="7" Entonces
+					Imprimir "Hoy es Domingo"
+				FinSi
+			SiNo
+				Imprimir "Ese día de la semana no existe"
+			FinSi
+		FinSi
+	SiNo
+		Imprimir "Por favor elija una opción valida"
+	FinSi
+	Si Opcionn =="3" Entonces
+		Imprimir "3. Calcular longitud del texto"
+		Imprimir "Por favor ingrese texto"
+		Leer Texto
+		Imprimir "La Longitud del texto es de: ",ConvertirATexto(Longitud(Texto))
+	FinSi
+FinAlgoritmo
+```
+##Solution Graphic
+1. Option 1
+![Op1](https://user-images.githubusercontent.com/95326781/206054915-a921a558-17a7-4106-8ae3-6d704e519684.jpg)
+2. Option 2
+![op2](https://user-images.githubusercontent.com/95326781/206055419-c5f0f12a-2f2b-4919-8721-70cba69e01c1.jpg)
+3. Option 3
+![op3](https://user-images.githubusercontent.com/95326781/206055520-2ceaa0cd-e50e-4087-9e8a-72f6af72e071.jpg)
 ---
 ## Wednesday, December 7💻
 ---
