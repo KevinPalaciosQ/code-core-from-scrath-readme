@@ -255,12 +255,15 @@ FinAlgoritmo
 1. Option 1
 
 ![Op1](https://user-images.githubusercontent.com/95326781/206054915-a921a558-17a7-4106-8ae3-6d704e519684.jpg)
+
 2. Option 2
 
 ![op2](https://user-images.githubusercontent.com/95326781/206055419-c5f0f12a-2f2b-4919-8721-70cba69e01c1.jpg)
 
 3. Option 3
+
 ![op3](https://user-images.githubusercontent.com/95326781/206055520-2ceaa0cd-e50e-4087-9e8a-72f6af72e071.jpg)
+
 ---
 ## Wednesday, December 7💻
 ---
