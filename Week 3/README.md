@@ -349,6 +349,7 @@ Algoritmo TablaConFor
 FinAlgoritmo
 ```
 The result of the algorithm is the following:
+
 ![Table](https://user-images.githubusercontent.com/95326781/206582311-3952a011-9f4a-47d8-9ed2-9f7d90b58d68.jpg)
 # Ascending and Descending Numbers
 ## Description
@@ -380,6 +381,7 @@ FinAlgoritmo
 ```
 
 The result of the algorithm is the following:
+
 ![orden](https://user-images.githubusercontent.com/95326781/206586201-48fa0a8d-6e31-40df-a273-2886bd3a10ef.jpg)
 # Greetings
 ## Description
@@ -419,5 +421,6 @@ Algoritmo Greetings
 FinAlgoritmo
 
 ```
-The result of the algorithm is the following:
+The result of the algorithm is the following: 
+
 ![Greetings](https://user-images.githubusercontent.com/95326781/206588287-a96239cb-23e8-4903-847d-1c2bd4ad3748.jpg)
