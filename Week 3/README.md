@@ -329,3 +329,5 @@ Algoritmo CalculadoraSimpleConDoWhile
 FinAlgoritmo
 
 ```
+### Graphic Solution
+![Ejemplo](https://user-images.githubusercontent.com/95326781/206325402-e797e39e-ea2a-473a-b454-604b1d12c43a.jpg)
