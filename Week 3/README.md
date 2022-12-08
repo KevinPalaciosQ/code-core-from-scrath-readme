@@ -287,4 +287,45 @@ FinAlgoritmo
 ### Expected Output
 ![Output](https://user-images.githubusercontent.com/95326781/206041707-bac48898-b1c4-4009-b852-496cdb4e1aaf.jpg)
 ---
+# Simple calculator Do While
+## Description
+For this challenge we are going to use the simple calculator that we made in the challenge 02 but now adding the functionality to perform a calculation again without finishing the program. The program should ask us if we want to use another operation and if the user answers yes then we can perform a new operation. To solve this challenge remember to use Do while (Repetir Hasta Que).
+```
+Algoritmo CalculadoraSimpleConDoWhile
+	Repetir
+		Escribir "Por favor ingrese el primer número:"
+		Leer Numero1
+		Escribir "Por favor ingrese el segundo número:"
+		Leer Numero2
+		Imprimir "Operaciones Permitidas:"
+		Imprimir "Suma = +"
+		Imprimir "Resta = -"
+		Imprimir "Multiplicación = *"
+		Imprimir "División = /"
+		Escribir "Por elija un signo para realizar una operación (+,-,*,/)"
+		Leer Operador
+		Si Operador =="+"| Operador == "-"| Operador =="*" | Operador =="/" Entonces
+			Imprimir  "La operación a Realizar será",Operador
+			Segun Operador Hacer
+				"+":
+					Operacion = Numero1+ Numero2
+					Imprimir "El resultado de la Suma es : ", Operacion
+				"-":
+					Operacion = Numero1- Numero2
+					Imprimir "El resultado de la Resta es : ", Operacion
+				"*":
+					Operacion = Numero1*Numero2
+					Imprimir "El resultado de la Multiplicación es : ", Operacion
+				"/":
+					Operacion = Numero1/Numero2
+					Imprimir "El resultado de la División es : ", Operacion
+			FinSegun
+		SiNo
+			Imprimir "Por favor elija una opción valida"
+		FinSi	
+		Imprimir "Desea continuar con otra operación? Escriba si/no"
+		Leer continuar
+	Hasta Que continuar =="no" | continuar =="No"| continuar =="NO"
+FinAlgoritmo
 
+```
