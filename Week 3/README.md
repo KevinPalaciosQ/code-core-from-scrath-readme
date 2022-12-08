@@ -332,3 +332,61 @@ FinAlgoritmo
 ```
 ### Graphic Solution
 ![Ejemplo](https://user-images.githubusercontent.com/95326781/206325402-e797e39e-ea2a-473a-b454-604b1d12c43a.jpg)
+---
+## Thursday, December 8💻
+---
+# Multiplication Tables with For
+## Description
+For this challenge you will create a program to calculate the multiplication tables for a given number using the For(Para) loop. The user must enter a number and then the multiplication table for the number must be printed.
+# Solution
+```
+Algoritmo TablaConFor
+	Escribir "Ingrese la tabla: "
+	Leer tabla;
+	Para iterador <- 1 Hasta 12 Hacer
+		Escribir tabla," x ", iterador, " = ", iterador*tabla
+	FinPara
+FinAlgoritmo
+```
+The result of the algorithm is the following:
+![Table](https://user-images.githubusercontent.com/95326781/206582311-3952a011-9f4a-47d8-9ed2-9f7d90b58d68.jpg)
+# Ascending and Descending Numbers
+## Description
+For this challenge we are going to print numbers in ascending or descending order. The user must enter a number, then he must enter if he wants to print the numbers in ascending or descending order. If the user chooses ascending, the numbers will be printed from the number 0 to the number entered, otherwise the numbers will be printed descending from the number entered to the number 0.To solve this challenge remember to use the For(Para) loop.
+# Solution
+```
+Algoritmo AscendingandDescendingNumbers
+	Imprimir  "Por favor ingrese un número"
+	Leer numero
+	Imprimir  "Por favor elija una opción"
+	Imprimir "Presione 1 para Orden Ascendente"
+	Imprimir "Presione 2 para Orden Descendente"
+	Leer opcion
+	Si opcion == "1" | opcion == "2" Entonces
+		Segun opcion hacer
+			"1":
+				para num <- 0 Hasta numero Con Paso 1 Hacer
+					Imprimir num
+				FinPara
+			"2":
+				para num <- numero Hasta 0 Con Paso -1 Hacer
+					Imprimir num
+				FinPara
+		FinSegun
+	SiNo
+		Imprimir "Por favor seleccione una opción válida"
+	FinSi
+FinAlgoritmo
+```
+The result of the algorithm is the following:
+![orden](https://user-images.githubusercontent.com/95326781/206586201-48fa0a8d-6e31-40df-a273-2886bd3a10ef.jpg)
+# Greetings
+## Description
+For this challenge, you need to create a program that prints a greeting based on an hour entered. The program should do the following:
+
+    Print Buenos dias! if the hour is from 0 to 12
+    Print Buenas tardes! if the hour is from 13 to 18
+    Print Buenas noches! if the hour is from 19 to 23
+    Ask the user if he wants to perform another greeting. If the answer is Si, the program must start again.
+    At the end of the program, print out the number of times the program has greeted.
+
