@@ -378,6 +378,7 @@ Algoritmo AscendingandDescendingNumbers
 	FinSi
 FinAlgoritmo
 ```
+
 The result of the algorithm is the following:
 ![orden](https://user-images.githubusercontent.com/95326781/206586201-48fa0a8d-6e31-40df-a273-2886bd3a10ef.jpg)
 # Greetings
@@ -389,4 +390,34 @@ For this challenge, you need to create a program that prints a greeting based on
     Print Buenas noches! if the hour is from 19 to 23
     Ask the user if he wants to perform another greeting. If the answer is Si, the program must start again.
     At the end of the program, print out the number of times the program has greeted.
+## Solution
+```
+Algoritmo Greetings
+	Definir continue Como Cadena
+	Definir cants Como Entero
+	cants <- 0
+	continue <- "Si"
+	Mientras continue == "Si" Hacer
+		Imprimir "Greetings"
+		Imprimir  "Por favor ingrese la hora actual (0-23):"
+		Leer hora
+		Si hora<=12 Entonces
+			Imprimir "Hola, Buenos días"
+		SiNo
+			Si hora <=18 Entonces
+				Imprimir "Hola, Buenas tardes"
+			SiNo
+				Imprimir "Hola, Buenas noches"
+			FinSi
+		FinSi
+		cants <- cants + 1
+		
+		Imprimir "¿Desea seguir siendo saludado Si/No ? "
+		Leer continue
+	Fin Mientras
+	Imprimir  "La cantidad de saludos de hoy es: ", cants
+FinAlgoritmo
 
+```
+The result of the algorithm is the following:
+![Greetings](https://user-images.githubusercontent.com/95326781/206588287-a96239cb-23e8-4903-847d-1c2bd4ad3748.jpg)
