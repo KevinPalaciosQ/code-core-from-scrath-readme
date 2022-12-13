@@ -38,5 +38,32 @@ The result of the program is as follows:
 
 ![out](https://user-images.githubusercontent.com/95326781/207465435-da659b9e-0f42-42c4-bb7b-d08647ba4427.jpg)
 ---
-Even or odd
+# Even or odd
 ---
+## Description
+
+Request a number from 1 to 50, if the number is not between those values, report the error and request it again until you get a valid number, then it shows on the screen all the numbers from 1 to that number, if the number is even it only shows the even numbers, if it is odd it only shows the odd ones.
+## Solution
+```
+Algoritmo Evenodd
+	num = 0
+	Repetir
+		Escribir "Write a number between 1 and 50"
+		Leer num
+		Si num>0 & num <= 50 Entonces
+			Si num%2 == 0 Entonces
+				Para n<-2 Hasta num Con Paso 2 Hacer
+					Escribir n
+				Fin Para
+			SiNo
+				Para n<-1 Hasta num Con Paso 2 Hacer
+					Escribir n
+				Fin Para
+			FinSi
+		SiNo
+			Escribir "invalid number"
+		FinSi
+	Mientras Que num <=0 | num>50
+FinAlgoritmo
+```
+![o](https://user-images.githubusercontent.com/95326781/207468772-11c9e1d1-3302-4bda-ab94-1867c68cd141.jpg)
