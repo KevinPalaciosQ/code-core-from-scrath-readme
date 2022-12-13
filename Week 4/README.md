@@ -66,4 +66,6 @@ Algoritmo Evenodd
 	Mientras Que num <=0 | num>50
 FinAlgoritmo
 ```
+The result of the program is as follows:
+
 ![o](https://user-images.githubusercontent.com/95326781/207468772-11c9e1d1-3302-4bda-ab94-1867c68cd141.jpg)
