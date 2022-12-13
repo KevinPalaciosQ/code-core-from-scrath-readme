@@ -35,6 +35,7 @@ FinAlgoritmo
 ```
 
 The result of the program is as follows:
+
 ![out](https://user-images.githubusercontent.com/95326781/207465435-da659b9e-0f42-42c4-bb7b-d08647ba4427.jpg)
 ---
 Even or odd
