@@ -290,5 +290,20 @@ FinAlgoritmo
 ```
 # Solution
 ```
-
+Algoritmo Reverse_direction_and_size
+	Imprimir Rs("Leonardo")
+FinAlgoritmo
+Funcion reverse <-  Rs(texto)
+	Definir reverse Como Caracter
+	reverse = ""
+	Para i = Longitud(texto) Hasta 0 Con Paso -1 Hacer
+		leter = Subcadena(texto,i,i)
+		Si leter == Mayusculas(leter) Entonces
+			leter = Minusculas(leter)
+		SiNo 
+			leter = Mayusculas(leter)
+		FinSi
+		reverse= Concatenar(reverse, leter)
+	FinPara
+FinFuncion
 ```
