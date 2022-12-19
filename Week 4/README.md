@@ -1,6 +1,6 @@
 # Week 3
 ---
-## Monday, December 13💻
+## Monday, December 12💻
 ---
 # Average sales and commission
 ## Description
@@ -70,7 +70,7 @@ The result of the program is as follows:
 
 ![o](https://user-images.githubusercontent.com/95326781/207468772-11c9e1d1-3302-4bda-ab94-1867c68cd141.jpg)
 ---
-## Tuesday, December 14💻
+## Tuesday, December 13💻
 ---
 # Predefined functions
 ---
@@ -162,3 +162,133 @@ FinAlgoritmo
 ```
 ## Output
 ![dice](https://user-images.githubusercontent.com/95326781/208346440-0e71f219-0547-42e2-98ec-458ba0098e8a.jpg)
+---
+## Wednesday, December 14💻
+---
+## Distance to zero
+### Description
+Make a program that asks for 5 values and also allows us to know which one is furthest from zero, once obtained it returns that number (the numbers can be negative), showing only the integer part of the number.
+## Solucion
+```
+Algoritmo Distance_to_zero
+	Escribir  "Please Write a Number"
+	leer distance
+	Para count=1 Hasta 4 Con Paso 1 Hacer
+		Escribir "Please write a Number"
+		Leer  number
+		SI Abs(number) > Abs(distance) Entonces
+			distance = number
+		FinSi
+	FinPara
+	Imprimir Trunc(distance)
+FinAlgoritmo
+```
+## Output 
+![Solution](https://user-images.githubusercontent.com/95326781/208349029-c6b440da-572a-4fdc-b322-2ea8c81ab609.jpg)
+---
+# Toss coin
+---
+## Description
+From the data we receive first a name and a value, then another name and another value, using the built-in function aleatorio() we simulate the flip of a coin, We must return the name of the winner in capital letters and the value I win, to avoid cheating, if a player puts a value of zero or negative, the opponent automatically wins, in case both cheat, "game canceled" is returned.
+## Solucion
+```
+Algoritmo Toss_coin
+	Escribir "Enter the name of the first player"
+	Leer  p1
+	Escribir "enter the amount to play"
+	leer amt1
+	Escribir "Enter the name of the first player"
+	Leer  p2
+	Escribir "enter the amount to play"
+	leer amt2
+	SI amt1<=0 | amt2 <=0 Entonces
+		SI amt1<=0 & amt2 <=0 Entonces
+			Imprimir "game canceled"
+		SiNo
+			SI amt1<=0 Entonces
+				Imprimir "player wins: ", Mayusculas(p2), " amount won: 0"
+			SiNo
+				Imprimir "player wins: ", Mayusculas(p1), " amount won: 0"
+			FinSi
+		FinSi
+	SiNo
+		SI Aleatorio(1,2) = 1 Entonces
+			Imprimir "player wins: ", Mayusculas(p1), " amount won: ", amt2
+		SiNo
+			Imprimir "player wins: ", Mayusculas(p2), " amount won: ", amt1
+		FinSi
+	FinSi
+FinAlgoritmo
+```
+![Toss_coin](https://user-images.githubusercontent.com/95326781/208349719-44415b20-6a27-49ec-b370-f05846e5bd41.jpg)
+---
+## Thursday, December 15💻
+---
+# Structure of a function
+## Description
+The predefined functions of pseint, are codes already integrated in the program to be used when the user requires it, normally they are mathematical functions or functions for text strings.
+```
+  - Structure of a function
+    - Signature of a function
+    - Name
+    - Arguments, Parameters
+    - Return Values
+    - Function call
+```
+Example code
+```
+Algoritmo dias_semana
+Escribir "Ingrese los dias a mostrar"
+Leer d
+Dimension dias[d]
+semana(dias,d)
+FinAlgoritmo
+
+Algoritmo Telefono
+Escribir "Ingrese su numero de telefono movil"
+Leer tel
+Si tel < 9999999 Entonces
+Escribir "No es un telefono movil"
+Escribir "Tienen que ser 9 digitos"
+FinSi
+FinSubAlgoritmo
+```
+---
+# Total price
+---
+## Description
+
+Create a function called TotalPrice that takes 2 parameters, price and VAT, and returns the price including VAT. if the price exceeds 3000 a 10 percent discount is made on the total price.
+```
+	Funcion val <- TP (precio, iva)
+		Definir val Como Real;
+		SI precio > 3000 Entonces
+			val = ( precio + (precio/100*iva) ) / 100*90
+		SiNo
+			val = ( precio + (precio/100*iva) )
+		FinSi
+	Fin Funcion
+	Algoritmo example_TotalPrice
+		Imprimir TP(5000,21)
+FinAlgoritmo
+```
+![54545](https://user-images.githubusercontent.com/95326781/208351846-49ccfd7f-a486-4aa3-bfb9-2056734db569.jpg)
+---
+# Reverse direction and size
+## Description
+Create a function called ReverseDirectionAndSize that takes some text as a parameter and reverses it, eg: "Hello" -> "olleH" and also reverses the letters if they are uppercase to lowercase and if they are lowercase to uppercase, it should do something. like this:
+"HelLO" --> "olLEh"
+
+"Leonardo" --> "ODRANOEl"
+
+"Text" --> "TXEt"
+```
+Expected output
+Algoritmo example_ReverseDirectionAndSize
+	Imprimir ReverseDirectionAndSize("Hello")
+FinAlgoritmo
+```
+# Solution
+```
+
+```
