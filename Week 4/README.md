@@ -88,3 +88,34 @@ The result of the program is as follows:
         - minusculas
         - subcadena
 ```
+- Maths
+
+abs
+
+![abs](https://user-images.githubusercontent.com/95326781/208342672-a95c66a7-498a-4622-8e4a-3083d1b56462.jpg)
+---
+trunc
+
+![trunc](https://user-images.githubusercontent.com/95326781/208342966-b94283a9-bae8-4c7f-8929-ef491bd25754.jpg)
+---
+redon
+
+![redon](https://user-images.githubusercontent.com/95326781/208343053-82e51fad-13fc-4b75-90c6-317043fbbc8f.jpg)
+---
+azar
+
+![azar](https://user-images.githubusercontent.com/95326781/208343223-6711514b-5072-477b-90ad-3d4a2103e553.jpg)
+---
+- Chain
+---
+Longitud
+
+![longitud](https://user-images.githubusercontent.com/95326781/208343517-7e34a313-43bf-4c9e-b90e-9716eb73aae6.jpg)
+---
+Mayusculas
+
+![mayusculas](https://user-images.githubusercontent.com/95326781/208343619-18be353d-f0e1-4f6c-8baa-08b3a15ac1d8.jpg)
+---
+minusculas
+
+![minusculas](https://user-images.githubusercontent.com/95326781/208343977-5e6f81cf-4b67-401b-ad94-68cc617daad7.jpg)
