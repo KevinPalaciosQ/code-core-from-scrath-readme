@@ -307,3 +307,5 @@ Funcion reverse <-  Rs(texto)
 	FinPara
 FinFuncion
 ```
+![ou](https://user-images.githubusercontent.com/95326781/208354421-4c817231-bef1-4f2f-a158-4d88542fed9c.jpg)
+
