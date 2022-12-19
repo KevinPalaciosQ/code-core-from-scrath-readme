@@ -69,3 +69,22 @@ FinAlgoritmo
 The result of the program is as follows:
 
 ![o](https://user-images.githubusercontent.com/95326781/207468772-11c9e1d1-3302-4bda-ab94-1867c68cd141.jpg)
+---
+## Tuesday, December 14💻
+---
+# Predefined functions
+---
+## Description
+```
+- Predefined functions
+    - Maths
+        - abs
+        - trunc
+        - redon
+        - azar
+    - Chain
+        - longitud
+        - mayusculas
+        - minusculas
+        - subcadena
+```
