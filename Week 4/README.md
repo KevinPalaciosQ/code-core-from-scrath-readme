@@ -119,3 +119,46 @@ Mayusculas
 minusculas
 
 ![minusculas](https://user-images.githubusercontent.com/95326781/208343977-5e6f81cf-4b67-401b-ad94-68cc617daad7.jpg)
+---
+subcadena
+
+![sub](https://user-images.githubusercontent.com/95326781/208344252-4c7ac440-92e6-4c6a-8932-88c5d19c8885.jpg)
+---
+# Full name
+---
+## Description
+Make a program that takes a first name and a last name, then returns a string with both values with the first letter uppercase and the rest lowercase.
+```
+Algoritmo Full_name
+	Escribir "Write Name"
+	Leer name
+	Escribir "Write First Name"
+	Leer firstname
+	namecorrect = Mayusculas(Subcadena(name,0,1))+ Minusculas(Subcadena(name,2,Longitud(name)-0))
+	firstname = Mayusculas(Subcadena(firstname,0,1))+ Minusculas(Subcadena(firstname,2,Longitud(firstname)-0))
+	Imprimir namecorrect,firstname
+FinAlgoritmo
+
+```
+![full](https://user-images.githubusercontent.com/95326781/208345391-7c811094-6e03-4e77-be67-83223fc56e9e.jpg)
+# Throw dice
+---
+## Description
+Make a program that takes a first name and a last name, then returns a string with both values with the first letter uppercase and the rest lowercase.
+## Solucion
+```
+Algoritmo Throw_dice
+	Definir dado1,dado2 Como Entero
+	Para conteo = 1 Hasta  10 Con Paso 1 Hacer
+		dado1=azar(10)
+		dado2=azar(10)
+		SI dado1=dado2 Entonces
+			Imprimir dado1, " ", dado2, "Son iguales x)"
+		SiNo
+			Imprimir dado1, " ", dado2
+		FinSi
+	FinPara
+FinAlgoritmo
+```
+## Output
+![dice](https://user-images.githubusercontent.com/95326781/208346440-0e71f219-0547-42e2-98ec-458ba0098e8a.jpg)
