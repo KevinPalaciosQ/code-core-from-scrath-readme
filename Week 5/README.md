@@ -42,6 +42,8 @@ Create a function called compareDistances that asks for 5 numbers, these can be 
 4, 12 , 100, 8, -60 --> true
 
 40, 120 , 10, -80, -91 --> false
+
+
 ---
 # Solution
 ```
