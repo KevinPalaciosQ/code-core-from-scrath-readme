@@ -29,7 +29,7 @@ Funcion Re  <- TC(num)
 	Re  = Concatenar(Re, ConvertirATexto(s));
 Fin Funcion
 
-Algoritmo exampleTimeConverter
+Algoritmo MyTimeConverter
 	Imprimir ("Convertidor de Tiempo")
 	Imprimir TC(100000)
 FinAlgoritmo
