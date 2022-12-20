@@ -38,3 +38,27 @@ FinAlgoritmo
 # Compare distances
 ## Description
 ---
+# Solution
+```
+Funcion Re  <- Compare()
+	Definir Re Como Logico;
+	Definir Nnegativo, Npositivo Como Real;
+	Nnegativo=0;
+	Npositivo=0;
+	Para Conteo=1 con Paso 1 Hasta 5 Hacer
+		Escribir "Please write a Number";
+		Leer number;
+		Si number>0 Entonces
+			Npositivo=Npositivo+number;
+		SiNo
+			Nnegativo=Nnegativo+number;
+		FinSi
+	FinPara
+	Re=Npositivo>Abs(Nnegativo);
+Fin Funcion
+
+Algoritmo DistanceCompair
+	Imprimir ("Distance Compair")
+	Imprimir  Compare()
+FinAlgoritmo
+```
