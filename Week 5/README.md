@@ -1,6 +1,6 @@
 # Week 5
 ---
-## Monday, December 20💻
+## Monday, December 19💻
 ---
 # Time Converter
 ## Description
@@ -67,5 +67,40 @@ Fin Funcion
 Algoritmo DistanceCompair
 	Imprimir ("Distance Compair")
 	Imprimir  Compare()
+FinAlgoritmo
+```
+---
+## Tuesday, December 20💻
+---
+# Sum of pairs
+## Description
+---
+write a function called sumOfPairs that asks for a number from 1 to 100 indefinitely, if a negative number or greater than 100 is entered, it stops asking for more numbers and returns the sum of all the even numbers entered.
+
+4, 12 , 100, 11, -60 --> 116
+
+40, 121 --> 40
+# Solution
+```
+Funcion Resultado <- Operation()
+	Definir Resultado Como Real;
+	Definir suma Como Real;
+	Plus = 0;
+	Repetir
+		Escribir "write a number between 1 and 100"
+		leer n
+		SI  n < 1  | n > 100 Entonces
+			Imprimir "Invalid Number"
+		SiNo
+			SI n % 2 = 0
+				Plus = Plus + n;
+			FinSi
+		FinSi
+	Mientras Que n>= 1  & n  <= 100
+	Resultado = Plus;
+Fin Funcion
+
+Algoritmo PlusPairs
+	Imprimir Operation()
 FinAlgoritmo
 ```
