@@ -104,3 +104,39 @@ Algoritmo PlusPairs
 	Imprimir Operation()
 FinAlgoritmo
 ```
+# Mid point
+## Description
+---
+write a function called midpoint that given 2 values (can be negative) does not return the value of the midpoint between them
+
+-50,50 --> 0
+
+40, 80 --> 60
+```
+Funcion Resultado <- MyMidPoint (number1,number2)
+	Si number1 > 0 Entonces
+		Si number2 > 0 Entonces
+			SI number1 > number2 Entonces
+				Resultado = number2 + ((number1 - number2) / 2); 
+			SiNo
+				Resultado = number1 + ((number2- number1) / 2);
+			FinSi
+		SiNo
+			Resultado = number1 - ( (number1 + Abs(number2))/2);
+		FinSi
+	SiNo
+		SI number2 > 0 Entonces
+			Resultado = number1 + ( (number2 + Abs(number1))/2)	;
+		SiNo
+			SI Abs(num1) > Abs(number2) Entonces
+				Resultado = number1 + ((Abs(number1) - Abs(number2)) / 2); 
+			SiNo
+				Resultado = number2 + ((Abs(number2) - Abs(number1)) / 2); 
+			FinSi
+		FinSi
+	FinSi
+Fin Funcion
+Algoritmo MP
+	Imprimir MyMidPoint(-50,50)
+FinAlgoritmo
+```
