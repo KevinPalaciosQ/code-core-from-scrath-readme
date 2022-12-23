@@ -140,3 +140,19 @@ Algoritmo MP
 	Imprimir MyMidPoint(-50,50)
 FinAlgoritmo
 ```
+---
+## Thursday, December 22💻
+---
+# 'IF' statement in JavaScript
+## Description
+---
+Create an if statement with the JavaScript syntax
+## Solution
+```
+var i=18;
+if (i>=18){
+    document.write("Usted es Mayor de Edad");
+}else{
+    document.write("Usted es Menor de Edad");
+}
+```
