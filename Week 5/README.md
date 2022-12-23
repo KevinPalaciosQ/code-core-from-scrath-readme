@@ -156,3 +156,24 @@ if (i>=18){
     document.write("Usted es Menor de Edad");
 }
 ```
+# 'WHILE' loop in JavaScript
+## Description
+---
+Create a while loop statement with the JavaScript syntax
+## Solution
+```
+while (i < 3) { //shows 0, then 1, then 2
+    alert( i );
+    i++;
+}
+```
+# 'FOR' loop in JavaScript
+## Description
+---
+Create a for loop with the JavaScript syntax
+## Solution
+```
+for (let i = 0; i < 3; i++) { //shows 0, then 1, then 2
+    alert(i);
+}
+```
