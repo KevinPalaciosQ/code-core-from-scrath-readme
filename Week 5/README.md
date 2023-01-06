@@ -139,6 +139,7 @@ Fin Funcion
 Algoritmo MP
 	Imprimir MyMidPoint(-50,50)
 FinAlgoritmo
+```
 ---
 ## Wednesday, December 21💻
 ---
