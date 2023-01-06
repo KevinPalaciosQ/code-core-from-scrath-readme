@@ -139,6 +139,107 @@ Fin Funcion
 Algoritmo MP
 	Imprimir MyMidPoint(-50,50)
 FinAlgoritmo
+---
+## Wednesday, December 21💻
+---
+# Cashier
+## Description
+---
+create a function called "cashier" that pretends to be a panel of a bank should display the text: "select an option: a. to deposit. b. withdraw. c. go out." and have a value called balance that will return when finished and will print it on the screen, its initial value will be 1000. You must repeat the menu until you select the option 'c'
+
+if we select 'a' it invokes another function called 'deposit' that will display a text on the screen that will say 'how much do you want to deposit:' it will add that value to the balance and end the function.
+
+if we select 'b' it invokes another function called 'withdraw' that will display a text on the screen that will say 'how much do you want to withdraw:' it will subtract that value from the balance and end the function.
+
+"select an option: a. to deposit. b. withdraw. c. go out."
+
+a -->
+
+"how much do you want to deposit:"
+
+500 -->
+
+"select an option: a. to deposit. b. withdraw. c. go out."
+
+b -->
+
+"how much do you want to withdraw:"
+
+1400 -->
+
+"select an option: a. to deposit. b. withdraw. c. go out."
+
+c -->
+
+100
+
+```
+Funcion balance <- c ()
+	Definir balance Como Real;
+	balance = 1000;
+	Repetir
+		Imprimir "select an option:";
+		Imprimir "a. to deposit.";
+		Imprimir "b. withdraw.";
+		Imprimir "c. go out.";
+		leer option
+		Si option = 'a' Entonces
+			balance = balance + deposit()
+		FinSi
+		Si option = 'b' Entonces
+			balance = balance - w()
+		FinSi
+	Mientras Que option = "a" | option = "b"
+Fin Funcion
+
+Funcion v <- deposit()
+	Imprimir "how much do you want to deposit:";
+	leer value
+FinFuncion
+
+Funcion v <- w()
+	Imprimir "how much do you want to withdraw:";
+	leer v
+FinFuncion
+
+Algoritmo _Cashier
+	Imprimir c()
+FinAlgoritmo
+```
+---
+# Weather average
+## Description
+
+write an algorithm that loops indefinitely until 'x' is entered which will calculate an average of the weather, note that for each value entered it should ask if it is fahrenheit or celsius, then ask for the value. add everything up and divide by the number of values entered. The result must be returned in celsius, have a function that, in case fahrenheit is entered, transforms it to celsius in order to add them.
+
+```
+Funcion celsius <- fTC (fahrenheit)
+	Definir celsius Como Real;
+	celsius = (fahrenheit - 32 ) / 1.8
+Fin Funcion
+
+Algoritmo WeatherAverage
+	count = 0;
+	total = 0;
+	Repetir
+		Imprimir "Select an option:";
+		Imprimir "a. Enter degrees celsius.";
+		Imprimir "b. Enter degrees fahrenheit.";
+		Imprimir "x. Go out.";
+		leer option
+		Si option = "a" | option = "b" Entonces
+			leer degree
+			count = count + 1;
+		FinSi
+		Si option = 'a' Entonces
+			total = total + degree;
+		FinSi
+		Si option = 'b' Entonces
+			total = total + fTC(degree);
+		FinSi
+	Mientras Que option = "a" | option = "b"
+	Imprimir total / count;
+FinAlgoritmo
 ```
 ---
 ## Thursday, December 22💻
