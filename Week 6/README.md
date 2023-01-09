@@ -1,1 +1,0 @@
-# code-core-from-scrath-readme
