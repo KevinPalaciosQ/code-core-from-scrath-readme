@@ -78,7 +78,7 @@ function mystery() {
   };
 ```
 ---
-## wednesday, January 11💻
+## Wednesday, January 11💻
 ---
 # Count strings in objects
 ## Solution
