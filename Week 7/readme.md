@@ -3,6 +3,7 @@
 ## Monday, January 9💻
 ---
 # String: substr()
+## Solution
 ```
 function firstWord(str) {
     let fB = str.indexOf(' ');
@@ -11,6 +12,7 @@ function firstWord(str) {
 ```
 ---
 # String: replace()
+## Solution
 ```
 function normalize(DateToday) {
     return DateToday.replace(/-/g, "/");
@@ -18,11 +20,13 @@ function normalize(DateToday) {
 ```
 ---
 # Increment
+## Solution
 ```
 The Result of x will be: 7
 ```
 ---
 # Farenheit
+## Solution
 ```
 function toFahrenheit(getcelsius) {
     return 1.8 * getcelsius + 32;
@@ -30,6 +34,7 @@ function toFahrenheit(getcelsius) {
 ```
 ---
 # Boolean
+## Solution
 ```
 function nand(x, y) {
     return !(x && y);
