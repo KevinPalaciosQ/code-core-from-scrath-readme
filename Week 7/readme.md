@@ -103,7 +103,7 @@ Array.prototype.first = function() {
     return this[this.length-1];
   };
 ```
-# Object Oriented Piracy
+# Oriented Piracy
 ## Solution
 ```
 function Ship(d,c) { 
@@ -113,5 +113,53 @@ function Ship(d,c) {
     this.isWorthIt = function (){
       return (this.d - this.c * 1.5) > 20;
     }
+  }
+```
+---
+## Thursday, January 12💻
+---
+# Convert a String to a Number!
+## Solution
+```
+const stringToNumber = function(str){
+    return parseInt(str);
+    return null;
+  }
+```
+# Convert number to reversed array of digits
+## Solution
+```
+function digitize(n) {
+    return String(n).split('').reverse().map(Number);
+  }
+```
+# Truthy and Falsy
+## Solution
+```
+const truthy = [true, 1, "false", 5, {}];
+const falsy = [false, 0, "", null, undefined];
+```
+# Training JS #4: Basic data types--Array
+## Solution
+```
+function getLength(arr){
+    return arr.length;
+  }
+  function getFirst(arr){
+    return arr[0];
+  }
+  function getLast(arr){
+    return arr[arr.length - 1];
+  }
+  function pushElement(arr){
+    var el=1;
+    arr.push(el);
+    
+    return arr;
+  }
+  function popElement(arr){
+    arr.pop();
+    
+    return arr;
   }
 ```
