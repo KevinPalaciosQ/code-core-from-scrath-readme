@@ -5,7 +5,6 @@ function strCount(obj){
       if (typeof obj[key] == 'string') c++;
       if (typeof obj[key] == 'object') c+= strCount(obj[key]);
     }
-    
     return c
   }
 //Extending JavaScript Objects: Get First & Last Array Element
@@ -25,3 +24,4 @@ function Ship(d,c) {
       return (this.d - this.c * 1.5) > 20;
     }
   }
+"2"==2;
