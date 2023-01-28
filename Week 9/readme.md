@@ -23,3 +23,46 @@
 ```
 
 ```
+---
+# "Who likes it?"
+## Solution
+```
+
+```
+---
+# Convert string to camel case
+## Solution
+```
+
+```
+---
+## Wednesday, January 25💻
+---
+# Easy mathematical callback
+## Solution
+```
+
+```
+# Moving Zeros To The End
+## Solution
+```
+
+```
+# Valid Parentheses
+## Solution
+```
+
+```
+---
+## Thursday, January 26💻
+---
+# The Hashtag Generator
+## Solution
+```
+
+```
+# String incrementer
+## Solution
+```
+
+```
