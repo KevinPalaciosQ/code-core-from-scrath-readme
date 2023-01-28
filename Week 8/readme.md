@@ -11,9 +11,6 @@ function saleHotdogs(n){
     else return n * 90
   }  
 ```
----
-## Tuesday, January 17💻
----
 # Training JS #8: conditional statement--switch
 ## Solution
 ```
@@ -41,6 +38,10 @@ function howManydays(month){
     return days;
   }
 ```
+---
+## Tuesday, January 17💻
+---
+
 ---
 ## Thursday, January 16💻
 ---
