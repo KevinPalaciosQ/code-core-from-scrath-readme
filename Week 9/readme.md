@@ -115,17 +115,44 @@ function toCamelCase(str){
 # Easy mathematical callback
 ## Solution
 ```
-
+function processArray(arr, callback) {
+  // TODO
+  return arr.map(callback);
+}
 ```
 # Moving Zeros To The End
 ## Solution
 ```
-
+function moveZeros(nums) {
+  let nonZero = [];
+  let zeros = [];
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] === 0) {
+      zeros.push(nums[i]);
+    } else {
+      nonZero.push(nums[i]);
+    }
+  }
+  return nonZero.concat(zeros);
+}
 ```
 # Valid Parentheses
 ## Solution
 ```
-
+function validParentheses(str) {
+  let count = 0;
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === "(") {
+      count++;
+    } else if (str[i] === ")") {
+      count--;
+      if (count < 0) {
+        return false;
+      }
+    }
+  }
+  return count === 0;
+}
 ```
 ---
 ## Thursday, January 26💻
@@ -133,10 +160,32 @@ function toCamelCase(str){
 # The Hashtag Generator
 ## Solution
 ```
-
+function generateHashtag (str) {
+  if (str === "") return false;
+  let x = str.split(' ').filter((word) => word !== '').map((word) => word.charAt(0).toUpperCase() + word.slice(1)).join('');
+  if( x.length > 139) return false
+  if( x === "") return false
+  return "#".concat(x);
+}
 ```
 # String incrementer
 ## Solution
 ```
-
+function incrementString(str) {
+  let num = "";
+  for (let i = str.length - 1; i >= 0; i--) {
+    if (isNaN(parseInt(str[i]))) {
+      break;
+    }
+    num = str[i] + num;
+  }
+  if (num === "") {
+    return str + "1";
+  }
+  let newNum = (parseInt(num) + 1).toString();
+  while (newNum.length < num.length) {
+    newNum = "0" + newNum;
+  }
+  return str.slice(0, str.length - num.length) + newNum;
+}
 ```
