@@ -54,4 +54,6 @@ app.listen(port, () => {
 
 
 ### Image Output
-
+![creation](https://user-images.githubusercontent.com/95326781/223333714-d2ca104b-28f1-40b2-96b6-4bfa24d8ecc5.jpg)
+![delay](https://user-images.githubusercontent.com/95326781/223333736-c5ec54d6-a748-46c4-8474-d9f06d2038f5.jpg)
+![delay5000](https://user-images.githubusercontent.com/95326781/223333760-fb6fa7ce-9f88-4fbb-98ef-a0de4393ed51.jpg)
