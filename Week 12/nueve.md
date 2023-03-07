@@ -31,3 +31,4 @@ No, Postman can be used to test and work with any kind of APIs, not just REST AP
 - ***Advanced REST Client***: Advanced REST Client is another browser-based tool for testing REST APIs. It offers features such as history tracking, automatic testing, and support for multiple authentication methods.
 
 ### Postman Example
+![postman](https://user-images.githubusercontent.com/95326781/223305505-454d3e6e-539a-49e1-85c1-5cd25ff28d47.jpg)
