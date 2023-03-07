@@ -46,6 +46,5 @@ console.log("Hi Kevin Estuardo Palacios Quiñonez");
 ```
 ## Images
 
-<img src="./../hello_world_node/helloNode1.png" alt="drawing"/><br>
-
-<img src="./../hello_world_node/helloNode2.png" alt="drawing"/><br>
+![Img1](https://user-images.githubusercontent.com/95326781/223297339-9cabd69c-dbee-45c4-87cb-7da9b989d176.jpg)
+![nodeResponse](https://user-images.githubusercontent.com/95326781/223297354-e380178b-de21-4fb3-90e7-e9c28142ed72.jpg)
