@@ -61,4 +61,5 @@ module.exports = { sum, subs};
 ```
 
 ## Graphic Solution
+![calculator](https://user-images.githubusercontent.com/95326781/223299328-cde6eb02-d424-4289-b520-bbe7a531f369.jpg)
 
