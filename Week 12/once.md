@@ -69,4 +69,9 @@ app.listen(port, () => {
 ```
 
 ### Output Images 
+![PingPong](https://user-images.githubusercontent.com/95326781/223326872-20422255-8a97-4971-b525-ec72924b1a09.jpg)
+### PING-PONG
+![APIPINGPONG](https://user-images.githubusercontent.com/95326781/223326903-bff65fbe-0721-43c0-922c-daa07ed03f4f.jpg)
+### PONG-PING
+![APIPONGPING](https://user-images.githubusercontent.com/95326781/223326899-e0458ddd-e905-4998-8317-6bd5da479470.jpg)
 
