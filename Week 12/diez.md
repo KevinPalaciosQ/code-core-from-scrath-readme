@@ -58,4 +58,5 @@ app.listen(port, () => {
 ```
 
 ### POSTMAN
+![modulo](https://user-images.githubusercontent.com/95326781/223320231-09ecc14d-0aa3-4c65-a2da-4046239f728c.jpg)
 
