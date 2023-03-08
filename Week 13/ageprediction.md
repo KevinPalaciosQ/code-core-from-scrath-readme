@@ -36,3 +36,4 @@ Create a simple REST API that tries to predict an age based on a name.
   }
   ```
 ##  Postman Output
+![PredictionAge](https://user-images.githubusercontent.com/95326781/223586679-e5a1430a-7302-4044-b6ae-4aa40760d293.jpg)
